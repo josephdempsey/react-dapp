@@ -34,4 +34,4 @@ npx hardhat run scripts/deploy.js --network localhost
 npm start
 ```
 
-Thanks to https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13 for the tutorial.
+Thanks to dabit3 for the tutorial.
